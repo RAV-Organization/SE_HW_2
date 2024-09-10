@@ -17,3 +17,9 @@ def test_case2():
     # print(arr_out)
     # print(sorted(ARR))
 
+def test_case3():
+    ARR = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    arr_out = merge_sort(ARR)
+    assert arr_out == sorted(ARR)
+    # print(arr_out)
+    # print(sorted(ARR))
