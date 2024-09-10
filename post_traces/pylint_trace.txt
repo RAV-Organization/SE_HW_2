@@ -19,5 +19,5 @@ Your code has been rated at 4.83/10
 Your code has been rated at 10.00/10 (previous run: 4.83/10, +2.92)
 
 --------------------------------------------------------------------
-Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0s.00)
 
