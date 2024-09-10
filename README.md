@@ -4,5 +4,6 @@
 
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Deploy badge](https://github.com/RAV-Organization/SE_HW_1/actions/workflows/python-app.yml/badge.svg)
+<!-- ![Deploy badge](https://github.com/RAV-Organization/SE_HW_1/actions/workflows/python-app.yml/badge.svg) -->
 
+[![Deploy badge](https://github.com/RAV-Organization/SE_HW_1/actions/workflows/python-app.yml/badge.svg)](https://github.com/RAV-Organization/SE_HW_1/actions/workflows/python-app.yml)
