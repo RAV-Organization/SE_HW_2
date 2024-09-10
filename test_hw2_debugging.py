@@ -9,3 +9,11 @@ def test_case1():
     # print(arr_out)
     # print(sorted(ARR))
 
+
+def test_case2():
+    ARR = [10,9,9,5,3,1,2,47]
+    arr_out = merge_sort(ARR)
+    assert arr_out == sorted(ARR)
+    # print(arr_out)
+    # print(sorted(ARR))
+
