@@ -6,5 +6,5 @@
 
 <!-- ![Deploy badge](https://github.com/RAV-Organization/SE_HW_1/actions/workflows/python-app.yml/badge.svg) -->
 
-[![Test badge](https://github.com/RAV-Organization/SE_HW_1/actions/workflows/python-app.yml/badge.svg)](https://github.com/RAV-Organization/SE_HW_1/actions/workflows/python-app.yml)
+[![Test badge](https://github.com/RAV-Organization/SE_HW_2/actions/workflows/python-app.yml/badge.svg)](https://github.com/RAV-Organization/SE_HW_2/actions/workflows/python-app.yml)
 
