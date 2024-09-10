@@ -4,9 +4,14 @@ import subprocess
 def random_array(arr):
     """Function printing python version."""
     shuffled_num = None
-    for i in range(len(arr)):
+    # for i in range(len(arr)):
+    for i, _ in enumerate(arr):
+        # shuffled_num = subprocess.run(
+        #     ["shuf", "-i1-20", "-n1"], capture_output=True)
+        # arr[i] = int(shuffled_num.stdout)
         shuffled_num = subprocess.run(
-            ["shuf", "-i1-20", "-n1"], capture_output=True)
+            ["shuf", "-i1-20", "-n1"], capture_output=True, check=True  # Explicitly setting check=True
+        )
         arr[i] = int(shuffled_num.stdout)
     return arr
 

@@ -77,6 +77,6 @@ def recombine(left_arr, right_arr):
 
 
 # Example usage
-# ARR = random_array([0] * 20)
-# arr_out = merge_sort(ARR)
-# print(arr_out)
+ARR = random_array([0] * 20)
+arr_out = merge_sort(ARR)
+print(arr_out)

@@ -27,5 +27,3 @@ def test_case3():
     assert arr_out == sorted(arr_example_3)
     # print(arr_out)
     # print(sorted(ARR))
-
-test_case1()
