@@ -14,11 +14,12 @@ def test_case1():
 
 def test_case2():
     """Function printing python version."""
-    arr_example_2 = [10,9,9,5,3,1,2,47]
+    arr_example_2 = [10, 9, 9, 5, 3, 1, 2, 47]
     arr_out = merge_sort(arr_example_2)
     assert arr_out == sorted(arr_example_2)
     # print(arr_out)
     # print(sorted(ARR))
+
 
 def test_case3():
     """Function printing python version."""
